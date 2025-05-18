@@ -4,7 +4,8 @@
 <h1 align="center">Hi 👋, I'm Ishaan</h1>
 <h3 align="center">Learning Something New Always!</h3>
 
-- 🌱 I’m currently learning **React , DSA , AWS**
+- 🌱 I’m currently diving into **Data Engineering** and exploring the world of **Generative AI**  
+- 🔧 Occasionally, I find myself intrigued by **DevOps** and love tinkering with it
 
 - 📫 How to reach me **ichprogramming50@gmail.com**
 
